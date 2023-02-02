@@ -1,0 +1,21 @@
+.banner {
+  background-size: cover;
+  background-position: 50% 40%;
+  padding: 87px 30px 220px;
+  height: 250px;
+}
+
+.banner h2{
+  color: beige;
+  font-size: 40px;
+  font-family: inherit;
+  text-shadow: 0 0 6 black;
+}
+
+.banner p{
+  color:beige;
+  font-size: 20px;
+  text-align:left;
+  font-family: inherit;
+  text-shadow: 0 0 6 black;
+}

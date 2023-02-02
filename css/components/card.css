@@ -1,0 +1,26 @@
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 16px;
+
+}
+.card{
+  border: 1px dotted lightgray;
+  box-shadow: 0 0 3 black;
+  margin: 40px;
+  border-radius: 4px;
+  background-color: rgb(248, 216, 175);
+  font-family: inherit;
+  text-shadow: 0 0 6 black;
+}
+.card img{
+  height: 150px;
+  width: 150px;
+
+}
+
+.card h2{
+  font-size: 40px;
+  font-family: inherit;
+  text-shadow: 0 0 6 black;
+}
